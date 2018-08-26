@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evry
 x-kinRank: "7"
 x-alexaRank: "686135"
 tags: Internet of Things
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/evrythng/apis.md
 specificationVersion: "0.14"
 apis: []

@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1861-belki
 x-kinRank: "7"
 x-alexaRank: "26936"
 tags: Internet of Things
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/belkin/apis.md
 specificationVersion: "0.14"
 apis: []
