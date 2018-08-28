@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/61-buddy-p
 x-kinRank: "9"
 x-alexaRank: "750236"
 tags: Internet of Things
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/buddy-platform/apis.md
 specificationVersion: "0.14"
 apis: []

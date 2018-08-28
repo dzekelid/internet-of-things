@@ -1,0 +1,793 @@
+{
+	"name": "Streadata.io API Gallery - Internet of Things",
+	"description": "This is a repository of internet of things APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/internet-of-things.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://internet-of-things.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Buddy Platform",
+			"x-api-slug": "buddy-platform",
+			"description": "Buddy Platform is a lightweight, fast and flexible platform for collecting and processing Internet of Things (IoT) data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/61-buddy-platform.jpg",
+			"humanURL": "http://buddy.com",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/buddy-platform/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Xively",
+			"x-api-slug": "xively",
+			"description": "Simplify the creation, deployment, and management of connected products and solutions on the #IoT.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/451-xively.jpg",
+			"humanURL": "https://xively.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/xively/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sensr.net",
+			"x-api-slug": "sensr-net",
+			"description": "Sensr.net keeps track of interesting images and alert you when something happens. Were starting off with basic motion detection. We keep the images around and organize them by time and day. Well send you an email or a text message if youd like when ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/924-sensr-net.jpg",
+			"humanURL": "https://sensr.net/api",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/sensr-net/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ThingSpeak",
+			"x-api-slug": "thingspeak",
+			"description": "ThingSpeak is the open IoT platform with MATLAB analytics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/952-thingspeak.jpg",
+			"humanURL": "https://thingspeak.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/thingspeak/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Exosite",
+			"x-api-slug": "exosite",
+			"description": "Exosite is a leading Internet of Things (IoT) platform that makes it easy to build connected products, solutions, and businesses. Get started for free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1006-exosite.jpg",
+			"humanURL": "http://exosite.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/exosite/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ninja Blocks",
+			"x-api-slug": "ninja-blocks",
+			"description": "Give your home a mind of its own.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1450-ninja-blocks.jpg",
+			"humanURL": "http://ninjablocks.com/docs/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ninja-blocks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ecobee",
+			"x-api-slug": "ecobee",
+			"description": "Did you know?     ??? Thermostats represent 50-70% of your home energy use.  ??? The average ecobee customer saves 26% on their energy bill each year.  ??? 96% of ecobee customers would recommend ecobee to a friend.  ??? Over 80% of ecobee customers run an ene...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1835-ecobee.jpg",
+			"humanURL": "http://www.ecobee.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ecobee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nest",
+			"x-api-slug": "nest",
+			"description": "Discover connected home devices from Nest  thermostats, indoor and outdoor security cameras, smoke and carbon monoxide alarm, security system, video doorbell and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1858-nest.jpg",
+			"humanURL": "http://nest.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/nest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ISTABAI",
+			"x-api-slug": "istabai",
+			"description": "Istabai is an application that allows users to manage their home heating systems from anywhere with an internet connection. Users can set the service up simply by changing their radiator head and plugging in Istabais internet cable. The Istabai mobile application and web solution will relay the current temperature to the user and allow them to regulate it as they like. The system can also be accessed and controlled programmatically via REST API. The Istabai website is provided in English, Russian, and Latvian.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1859-istabai.jpg",
+			"humanURL": "http://istabai.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/istabai/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Belkin",
+			"x-api-slug": "belkin",
+			"description": "Belkin makes people-inspired products and solutions for iPhone, iWatch, IPad, Kindle, Samsung & Networking devices including a wide range of USB-C, Type C, USB, Lightning, Micro-USB, and other cables.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1861-belkin.jpg",
+			"humanURL": "http://www.belkin.com/us/wemo-switch",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/belkin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ubidots",
+			"x-api-slug": "ubidots",
+			"description": "Connect, Develop, and Deploy IoT Applications with Ubidots Intuative IoT Development Platform",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1981-ubidots.jpg",
+			"humanURL": "http://ubidots.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ubidots/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MachineShop",
+			"x-api-slug": "machineshop",
+			"description": "MachineShop is the Edge Computing Company - Intelligence at the Edge. Intelligent Integration to the Cloud.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2665-machineshop.jpg",
+			"humanURL": "http://www.machineshop.io/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/machineshop/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Davra",
+			"x-api-slug": "davra",
+			"description": "Davra???s RuBANtm solution has been designed from the ground up to completely control all elements of an IoT installation from initial deployment, through ongoing network and data management and our open API allows for the translation of raw sensor data ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2954-davra-networks.jpg",
+			"humanURL": "http://www.davranetworks.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/davra/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Adafruit Industries",
+			"x-api-slug": "adafruit-industries",
+			"description": "Adafruit was founded in 2005 by MIT hacker &amp; engineer, Limor Ladyada Fried. Her goal was to create the best place online for learning electronics and making the best designed products for makers of all ages and skill levels.",
+			"image": "",
+			"humanURL": "http://adafruit.com",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/adafruit-industries/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Notion",
+			"x-api-slug": "notion",
+			"description": "Notion provides wireless home monitoring easily & effectively, regardless of location. Whether you rent or own, Notion is the only monitoring system youll need.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11321-notion.jpg",
+			"humanURL": "http://notion.is/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/notion/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Augmate",
+			"x-api-slug": "augmate",
+			"description": "Augmate is the first wearable platform that accelerates the development of cloud-based smart eyewear applications. Our development environment allows us to build applications that integrate with enterprise backend services and a variety of API plug-ins. These capabilities enhance the user experience for the deskless workers that utilize our applications.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/augmate-logo.jpeg",
+			"humanURL": "http://augmate.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/augmate/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Watson",
+			"x-api-slug": "ibm-watson",
+			"description": "Meet IBM Watson, a cognitive system that enables a new partnership between people and computers that enhances and scales human expertise. Watson has been learning the language of professions and is trained by experts to work across many different industries.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/ibm-watson-logo.png",
+			"humanURL": "https://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/",
+			"baseURL": "https://ibm-watson-ml.mybluemix.net/v3/",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ibm-watson/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avi-On",
+			"x-api-slug": "avion",
+			"description": "Avi-on&rsquo;s vision for Simple Bluetooth Lighting Controls combines the perfect mix of simple, reliable devices, state of the art enterprise-grade remote management and easy configuration with any smart phone or tablet. The vibrant Avi-on ecosystem is growing with new products and partners every day, providing easy to use solutions for warehouse, manufacturing, office, education, architectural, residential, landscape, outdoor, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/avi-on-logo.png",
+			"humanURL": "http://avi-on.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/avion/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Luna Sleep",
+			"x-api-slug": "luna-sleep",
+			"description": "",
+			"image": "",
+			"humanURL": "http://lunasleep.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/luna-sleep/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Eclipse",
+			"x-api-slug": "eclipse",
+			"description": "Facebook probably not the best place to post questions. If you have questions about Eclipse software, the forums is probably the best place to start (http://www.eclipse.org/forums). If youre not sure where your question fits, try the newcomer forum ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11773-mosquitto.jpg",
+			"humanURL": "https://www.eclipse.org/mosquitto/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/eclipse/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenDaylight",
+			"x-api-slug": "opendaylight",
+			"description": "OpenDaylight is a community-led, open, industry-supported platform, consisting of code and blueprints for accelerating adoption, fostering new innovation, reducing risk and creating a more transparent approach to Software-Defined Networking.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18606-opendaylight.jpg",
+			"humanURL": "http://www.opendaylight.org/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/opendaylight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "DanaLock",
+			"x-api-slug": "danalock",
+			"description": "Welcome to the DanaLock Facebook.  Use your smartphone to lock and unlock your door!  DanaLock is the most beautiful and most inexpensive smart lock available today.  DanaLock is ready to ship, get yours now, please visit our homepage @ danalock.com.  ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18707-danalock.jpg",
+			"humanURL": "http://www.danalock.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/danalock/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Local Motors",
+			"x-api-slug": "local-motors",
+			"description": "Local Motors is a ground mobility company focused on shaping the future for the better. Founded in 2007 with a belief in open collaboration and co-creation, Local Motors began low volume vehicle manufacturing of open-source designs using multiple micro...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18715-local-motors.jpg",
+			"humanURL": "https://localmotors.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/local-motors/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Hypercat",
+			"x-api-slug": "hypercat",
+			"description": "HyperCat is a hypermedia catalogue format designed for exposing information about IoT assets over the web.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hypercat-logo.png",
+			"humanURL": "http://www.hypercat.io/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/hypercat/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nexcom",
+			"x-api-slug": "nexcom",
+			"description": "",
+			"image": "",
+			"humanURL": "http://www.nexcom.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/nexcom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Amazon Dash",
+			"x-api-slug": "amazon-dash",
+			"description": "Amazon Dash Replenishment Service (DRS) enables connected devices to order physical goods from Amazon when supplies are running low&mdash;like a Brita Water Pitcher that orders more filters. By using Amazon Dash Replenishment, device makers are able to leverage Amazons authentication and payment systems, customer service, and fulfillment network&mdash;giving their customers access to Amazons low prices, great selection, and reliable delivery.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/AmazonLogo.png",
+			"humanURL": "https://www.amazon.com/oc/dash-replenishment-service",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/amazon-dash/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MoBagel",
+			"x-api-slug": "mobagel",
+			"description": "MoBagel is a real-time cloud analytics platform that helps IoT companies monitor and analyze hardware usage, speed up research and development, forecast sales and marketing strategies, and proactively engage with customers to prevent product returns. As a result, companies can also save up to millions in cost reductions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mobagel-logo.png",
+			"humanURL": "https://mobagel.com/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/mobagel/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "weblab",
+			"x-api-slug": "weblab",
+			"description": "Microservices at your fingertips. Run code on each GitHub Push, a Paypal Payment, or any webhook, without setting up servers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19090-weblab.jpg",
+			"humanURL": "https://weblab.io/",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/weblab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Droplit.io",
+			"x-api-slug": "droplit-io",
+			"description": "Droplit.io is a set of tools that reduce the time and cost to launch connected things. It bridges between standards and protocols as you need in a secure and scalable way. Launching a connected product? Speed up development to minutes instead of months. Already have a product? Add new features quickly and a public API. Ideal for buildings with many different types of devices and specialized equipment. Adaptable to virtually any machine or device. Integrate thousands of devices and use autonomous behaviors for easy notifications and control.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/droplit-logo.png",
+			"humanURL": "http://www.droplit.io",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/droplit-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Density",
+			"x-api-slug": "density",
+			"description": "Density is an integrated, elegant, and anonymous people counter. Measure occupancy across a network of spaces in real-time, from corporate offices to college campuses. Make people count.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22426-density-io.jpg",
+			"humanURL": "http://density.io",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/density/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Internet of Things",
+			"x-api-slug": "aws-internet-of-things",
+			"description": "AWS IoT is a managed cloud platform that lets connected devices easily and securely interact with cloud applications and other devices. AWS IoT can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely. With AWS IoT, your applications can keep track of and communicate with all your devices, all the time, even when they aren&rsquo;t connected.AWS IoT makes it easy to use AWS services like AWS Lambda, Amazon Kinesis, Amazon S3, Amazon Machine Learning, Amazon DynamoDB, Amazon CloudWatch, AWS CloudTrail, and Amazon Elasticsearch Service with built-in Kibana integration, to build IoT applications that gather, process, analyze and act on data generated by connected devices, without having to manage any infrastructure.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Internet-Of-Things_AWSIoT.png",
+			"humanURL": "https://aws.amazon.com/iot-platform/",
+			"baseURL": ":///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/aws-internet-of-things/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Beacons",
+			"x-api-slug": "google-beacons",
+			"description": "Give your users better location and proximity experiences by providing a strong context signal for their devices in the form of Bluetooth low energy (BLE) beacons with Eddystone, the open beacon format from Google. The Google beacon platform enables you to manage your beacons remotely, integrate with Google services and help users devices to discover content and functionality across Android, native apps and the web.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-beacons.jpg",
+			"humanURL": "https://developers.google.com/beacons/",
+			"baseURL": "://proximitybeacon.googleapis.com//",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/google-beacons/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Cloud Pub Sub",
+			"x-api-slug": "google-cloud-pub-sub",
+			"description": "Cloud Pub/Sub is a fully-managed real-time messaging service that allows you to send and receive messages between independent applications. You can leverage Cloud Pub/Sub&rsquo;s flexibility to decouple systems and components hosted on Google Cloud Platform or elsewhere on the Internet. By building on the same technology Google uses, Cloud Pub/Sub is designed to provide &ldquo;at least once&rdquo; delivery at low latency with on-demand scalability to 1 million messages per second (and beyond).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-pub-sub-middleware.png",
+			"humanURL": "https://cloud.google.com/pubsub/docs/",
+			"baseURL": "://pubsub.googleapis.com//",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/google-cloud-pub-sub/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure IoT Hub",
+			"x-api-slug": "azure-iot-hub",
+			"description": "Jumpstart your Internet of Things project with Microsoft IoT Hub. Connect, monitor, and control billions of IoT assets running on a broad set of operating systems and protocols. Establish reliable, bi-directional communication with these assets, even if they&rsquo;re intermittently connected, and analyze&mdash;and act on&mdash;incoming telemetry data. Enhance the security of your IoT solutions by using per-device authentication to communicate with devices that have the appropriate credentials. Revoke access rights to specific devices to maintain the integrity of your system.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-iot-01-establish.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/iot-hub/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/azure-iot-hub/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Landoop",
+			"x-api-slug": "landoop",
+			"description": "At Landoop we help you join the fast data streaming revolution. We have a strong big and fast data culture, and highly focused on Apache Kafka, we are making solutions that aim to simplify your interaction with a complex stack. Streaming Data Pipelines at their best: Kafka native and Kubernets native. We help engineers understand their platform. We help companies join the streaming world. We focus on technology and products that streamline your data pipelines, connect with external systems, easily manage your cluster and zoom into it!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28195-www-landoop-com.jpg",
+			"humanURL": "http://www.landoop.com",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/landoop/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pioupiou",
+			"x-api-slug": "pioupiou",
+			"description": "The sensor that allows you to observe the wind live, anywhere, even where there is no electricity or internet.",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "https://pioupiou.com",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/pioupiou/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Actility",
+			"x-api-slug": "actility",
+			"description": "Actility is the leader in low power wide area (LoRaWAN and 3GPP) network connectivity management for the Internet of Things: the ThingPark platform",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28250-actility.jpg",
+			"humanURL": "https://www.actility.com",
+			"baseURL": "https://dx-api.thingpark.com//maker/v011/api",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/actility/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Arm Mbed",
+			"x-api-slug": "arm-mbed",
+			"description": "The ArmMbed IoT Device Platform provides the operating system, cloud services, tools and developer ecosystem to make the creation and deployment of commercial, standards-based IoT solutions possible at scale.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28251-os-mbed-com.jpg",
+			"humanURL": "https://os.mbed.com",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/arm-mbed/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dangerous Prototypes",
+			"x-api-slug": "dangerous-prototypes",
+			"description": "Dangerous Prototypes makes open source hardware.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28346-dangerous-prototypes.jpg",
+			"humanURL": "http://dangerousprototypes.com",
+			"baseURL": "https:///",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/dangerous-prototypes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EVRYTHNG",
+			"x-api-slug": "evrythng",
+			"description": "EVRYTHNG is the market leading internet of things platform for consumer product brands. Now individual product items can tell their stories to your business and your consumers throughout their lifecycle.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28871-evrythng-com.jpg",
+			"humanURL": "https://evrythng.com",
+			"baseURL": "https://example.com//",
+			"tags": "Internet of Things",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/evrythng/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Internet of Things",
+	"include": [
+		{
+			"name": "Buddy Platform",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/buddy-platform/apis.yaml"
+		},
+		{
+			"name": "Xively",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/xively/apis.yaml"
+		},
+		{
+			"name": "Sensr.net",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/sensr-net/apis.yaml"
+		},
+		{
+			"name": "ThingSpeak",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/thingspeak/apis.yaml"
+		},
+		{
+			"name": "Exosite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/exosite/apis.yaml"
+		},
+		{
+			"name": "Ninja Blocks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ninja-blocks/apis.yaml"
+		},
+		{
+			"name": "ecobee",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ecobee/apis.yaml"
+		},
+		{
+			"name": "Nest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/nest/apis.yaml"
+		},
+		{
+			"name": "ISTABAI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/istabai/apis.yaml"
+		},
+		{
+			"name": "Belkin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/belkin/apis.yaml"
+		},
+		{
+			"name": "Ubidots",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ubidots/apis.yaml"
+		},
+		{
+			"name": "MachineShop",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/machineshop/apis.yaml"
+		},
+		{
+			"name": "Davra",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/davra/apis.yaml"
+		},
+		{
+			"name": "Adafruit Industries",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/adafruit-industries/apis.yaml"
+		},
+		{
+			"name": "Notion",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/notion/apis.yaml"
+		},
+		{
+			"name": "Augmate",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/augmate/apis.yaml"
+		},
+		{
+			"name": "IBM Watson",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/ibm-watson/apis.yaml"
+		},
+		{
+			"name": "Avi-On",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/avion/apis.yaml"
+		},
+		{
+			"name": "Luna Sleep",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/luna-sleep/apis.yaml"
+		},
+		{
+			"name": "Eclipse",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/eclipse/apis.yaml"
+		},
+		{
+			"name": "OpenDaylight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/opendaylight/apis.yaml"
+		},
+		{
+			"name": "DanaLock",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/danalock/apis.yaml"
+		},
+		{
+			"name": "Local Motors",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/local-motors/apis.yaml"
+		},
+		{
+			"name": "Hypercat",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/hypercat/apis.yaml"
+		},
+		{
+			"name": "Nexcom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/nexcom/apis.yaml"
+		},
+		{
+			"name": "Amazon Dash",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/amazon-dash/apis.yaml"
+		},
+		{
+			"name": "MoBagel",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/mobagel/apis.yaml"
+		},
+		{
+			"name": "weblab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/weblab/apis.yaml"
+		},
+		{
+			"name": "Droplit.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/droplit-io/apis.yaml"
+		},
+		{
+			"name": "Density",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/density/apis.yaml"
+		},
+		{
+			"name": "AWS Internet of Things",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/aws-internet-of-things/apis.yaml"
+		},
+		{
+			"name": "Google Beacons",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/google-beacons/apis.yaml"
+		},
+		{
+			"name": "Google Cloud Pub Sub",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/google-cloud-pub-sub/apis.yaml"
+		},
+		{
+			"name": "Azure IoT Hub",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/azure-iot-hub/apis.yaml"
+		},
+		{
+			"name": "Landoop",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/landoop/apis.yaml"
+		},
+		{
+			"name": "Pioupiou",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/pioupiou/apis.yaml"
+		},
+		{
+			"name": "Actility",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/actility/apis.yaml"
+		},
+		{
+			"name": "Arm Mbed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/arm-mbed/apis.yaml"
+		},
+		{
+			"name": "Dangerous Prototypes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/dangerous-prototypes/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "EVRYTHNG",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/internet-of-things/master/_listings/evrythng/apis.yaml"
+		}
+	]
+}
